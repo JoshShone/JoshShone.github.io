@@ -17,23 +17,23 @@ body { /*Main body, what te amin page style will be, grid to keep everything con
 #explanation{
     color: #ffffff;
     font-size: 1.2em;
-    padding-left: 500em;
+    padding-left: 100em;
 }
 
 #skillset{
     color: #ffffff;
     font-size: 1.2em;
-    padding-left: 500em;
+    padding-left: 100em;
 }
 
 #paratitle1{
     font-size: 2.5em;
     color: #ffffff;
-    padding-left: 500em;
+    padding-left: 100em;
 }
 
 ul{/*Unordered list on home page*/
     color: #ffffff;
     font-size: 1.2em;
-    padding-left: 500em;
+    padding-left: 100em;
 }
