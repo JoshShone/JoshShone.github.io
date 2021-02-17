@@ -1,11 +1,11 @@
 body { /*Main body, what te amin page style will be, grid to keep everything consistent*/
-    background-color: #000000;
+    background-color: #ffffff;
 }
     
 #title {/*Id given to title of webpage allowing for easier styling*/
     font-size: 4.5em;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
     margin-bottom: 10px;
 }
 
@@ -14,14 +14,14 @@ body { /*Main body, what te amin page style will be, grid to keep everything con
     border-style: double;
 }
 
-#explanation{
-    color: #ffffff;
+#BasicInfo{
+    color: #000000;
     font-size: 1.2em;
     padding-left: 50em;
 }
 
-#skillset{
-    color: #ffffff;
+#about{
+    color: #000000;
     font-size: 1.2em;
     padding-left: 50em;
 }
