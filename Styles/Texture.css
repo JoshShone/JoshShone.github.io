@@ -67,14 +67,47 @@ article{
     color: #000000;
 }
 
+#tab1{
+    font-size: 2em;
+    color: #000000;
+}
+
+#tab1\.1{
+    font-size: 2em;
+    color: #000000;
+}
+
+#tab1\.2{
+    font-size: 2em;
+    color: #000000;
+    margin-right: 780px;
+    align-content: center;
+}
+
+#tab1\.3{
+    font-size: 2em;
+    color: #000000;
+    margin-right: 780px;
+}
+
 #tab2{
     font-size: 2em;
     color: #000000;
 }
 
-#tab1{
+#tab3{
     font-size: 2em;
     color: #000000;
+    display: inline-block;
+    margin-left: 55px;
+    margin-right: 600px;
+}
+
+#tab4{
+    font-size: 2em;
+    color: #000000;
+    display: inline-block;
+    margin-left: 500px;
 }
 
 #ciTitle{
