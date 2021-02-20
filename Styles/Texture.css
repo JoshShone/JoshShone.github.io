@@ -1,5 +1,5 @@
 body { /*Main body, what te amin page style will be, grid to keep everything consistent*/
-    background-color: #ffffff;
+    background-color: #A4A4A4;
     display: grid;
     grid-template-columns: repeat(12,1fr);
     grid-template-rows: auto;
@@ -47,14 +47,6 @@ article{
 
 #Page1{
     grid-area: article;
-    display: grid;
-    grid-template-columns: repeat(6,1fr);
-    grid-template-rows: auto;
-    grid-template-areas:
-    ". . BI BI . ."
-    ". . . GP . ."
-    ". . . . . ."
-    ". . . CI . .";
     align-items: center;
 }
 
