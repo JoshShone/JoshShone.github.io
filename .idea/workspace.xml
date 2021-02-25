@@ -9,7 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c40d88-2677-45fd-80a9-298b7fe32ab9" name="Default Changelist" comment="" />
+    <list default="true" id="25c40d88-2677-45fd-80a9-298b7fe32ab9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameProgEssay.html" beforeDir="false" afterPath="$PROJECT_DIR$/GameProgEssay.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,13 +47,6 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Uni/CSCT/Web/Worksheet-5" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +58,8 @@
       <workItem from="1613556695216" duration="174000" />
       <workItem from="1613736541208" duration="4081000" />
       <workItem from="1613787539247" duration="3454000" />
-      <workItem from="1614236802984" duration="7513000" />
+      <workItem from="1614236802984" duration="7669000" />
+      <workItem from="1614251241143" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="Nearly Finished">
       <created>1613740390514</created>
@@ -99,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614245057744</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Article Upload">
+      <created>1614245104893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614245104893</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,20 +116,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="Article Upload" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1335" y="108" key="CommitChangelistDialog2" timestamp="1614245056760">
+    <state x="-1335" y="108" key="CommitChangelistDialog2" timestamp="1614245104196">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1335" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614245056760" />
+    <state x="-1335" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614245104196" />
     <state x="585" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1613790671974" />
     <state x="-1180" y="295" key="FileChooserDialogImpl" timestamp="1614240970916">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1180" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614240970916" />
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1613737439918" />
-    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2" timestamp="1614245060138">
+    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2" timestamp="1614245107865">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614245060138" />
+    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614245107865" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1613790674311" />
   </component>
 </project>
