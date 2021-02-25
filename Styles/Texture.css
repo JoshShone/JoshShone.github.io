@@ -60,11 +60,14 @@ article{
 
 #ContactInfo{
     grid-area: CI;
+    margin-top: 480px;
 }
 
 #about{
     font-size: 1.2em;
     color: #000000;
+    margin-right: 150px;
+    margin-left: 150px;
 }
 
 #tab1{
@@ -93,6 +96,7 @@ article{
 #tab2{
     font-size: 2em;
     color: #000000;
+    margin-left: 150px;
 }
 
 #tab3{
@@ -101,6 +105,7 @@ article{
     display: inline-block;
     margin-left: 55px;
     margin-right: 600px;
+    margin-top: 50px;
 }
 
 #tab4{
@@ -113,10 +118,73 @@ article{
 #ciTitle{
     font-size: 1.8em;
     color: #000000;
+    margin-left: 150px;
 }
 
 #ci{
     font-size: 1.2em;
     color: #000000;
+    margin-left: 150px;
+}
+
+#ci2{
+    font-size: 1.2em;
+    color: #000000;
+    margin-left: 150px;
+}
+
+#Article\ Title{
+    font-size: 2.5em;
+    text-align: center;
+    color: #000000;
+}
+
+#ArtIntro{
+    font-size: 1em;
+}
+
+#ArticleBody{
+    text-align: center;
+    color: #000000;
+    margin-left: 400px;
+    margin-right: 400px;
+    word-spacing: 4px;
+}
+
+#Role{
+    font-size: 1.6em;
+    text-align: left;
+}
+
+#Skills{
+    font-size: 1.6em;
+    text-align: left;
+}
+
+#game{
+    width: 700px;
+}
+
+#code{
+    width: 600px;
+}
+
+#Salary{
+    font-size: 1.6em;
+    text-align: left;
+}
+
+#Advice{
+    font-size: 1.6em;
+    text-align: left;
+}
+
+#Sources{
+    font-size: 1.6em;
+    text-align: left;
+}
+
+p{
+    font-size: 1.1em;
 }
 

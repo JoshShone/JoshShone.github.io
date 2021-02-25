@@ -10,11 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c40d88-2677-45fd-80a9-298b7fe32ab9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Images/Valhalla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/unity-go-gameplay-programming-fundamentals-v1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssignExer.html" beforeDir="false" afterPath="$PROJECT_DIR$/AssignExer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameProg.html" beforeDir="false" afterPath="$PROJECT_DIR$/GameProg.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameProgEssay.html" beforeDir="false" afterPath="$PROJECT_DIR$/GameProgEssay.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Styles/Texture.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/Texture.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +36,25 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1obYKeWV2Fx7qjD3nnkxumq63Ez" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Uni/CSCT/Web/Worksheet-5" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -63,7 +68,8 @@
       <updated>1613556694127</updated>
       <workItem from="1613556695216" duration="174000" />
       <workItem from="1613736541208" duration="4081000" />
-      <workItem from="1613787539247" duration="3104000" />
+      <workItem from="1613787539247" duration="3454000" />
+      <workItem from="1614236802984" duration="7454000" />
     </task>
     <task id="LOCAL-00001" summary="Nearly Finished">
       <created>1613740390514</created>
@@ -86,28 +92,37 @@
       <option name="project" value="LOCAL" />
       <updated>1613788814957</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Nearly Finished">
+      <created>1613790672909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613790672909</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Nearly Finished" />
     <option name="LAST_COMMIT_MESSAGE" value="Nearly Finished" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="108" key="CommitChangelistDialog2" timestamp="1613788814247">
+    <state x="585" y="108" key="CommitChangelistDialog2" timestamp="1613790671974">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="585" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1613788814247" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1613737439918">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="585" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1613790671974" />
+    <state x="-1180" y="295" key="FileChooserDialogImpl" timestamp="1614240970916">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1180" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614240970916" />
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1613737439918" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1613788815810">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1613790674311">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1613788815810" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1613790674311" />
   </component>
 </project>
